@@ -2,7 +2,7 @@
 #127.0.1.1 ubuntu-server
 
 192.168.1.1
-192.168.1.100
+192.168.1.100 client 007
 192.168.1.150
 
 # The following lines are desirable for IPv6 capable hosts
